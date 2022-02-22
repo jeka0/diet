@@ -1,0 +1,36 @@
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.exe.config
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.exe
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.pdb
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\BusinessLayer.dll
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\DataAccessLayer.dll
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\ServiceLayer.dll
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\BusinessLayer.pdb
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\DataAccessLayer.pdb
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\ServiceLayer.pdb
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.Form1.resources
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.Properties.Resources.resources
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.exe
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.pdb
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.NewCategory.resources
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.NewProduct.resources
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.exe.config
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.exe
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\DataAccessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\ServiceLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\BusinessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\DataAccessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\ServiceLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.Form1.resources
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.NewCategory.resources
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.NewProduct.resources
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.Properties.Resources.resources
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.exe
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.pdb

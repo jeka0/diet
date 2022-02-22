@@ -1,0 +1,20 @@
+D:\Лаба 4 ЯП\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Лаба 4 ЯП\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Лаба 4 ЯП\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Лаба 4 ЯП\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Лаба 4 ЯП\ServiceLayer\bin\Debug\BusinessLayer.dll
+D:\Лаба 4 ЯП\ServiceLayer\bin\Debug\BusinessLayer.pdb
+D:\Лаба 4 ЯП\ServiceLayer\bin\Debug\DataAccessLayer.dll
+D:\Лаба 4 ЯП\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+D:\Лаба 4 ЯП\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Debug\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Debug\DataAccessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Debug\BusinessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Debug\ServiceLayer.pdb

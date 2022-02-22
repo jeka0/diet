@@ -1,0 +1,11 @@
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Release\ServiceLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Release\ServiceLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Release\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Release\DataAccessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Release\BusinessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\bin\Release\DataAccessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Release\ServiceLayer.csproj.AssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Release\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Release\ServiceLayer.csproj.CopyComplete
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Release\ServiceLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\ServiceLayer\obj\Release\ServiceLayer.pdb

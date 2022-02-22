@@ -1,0 +1,16 @@
+D:\Лаба 4 ЯП\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Лаба 4 ЯП\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Лаба 4 ЯП\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Лаба 4 ЯП\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Лаба 4 ЯП\DataAccessLayer\bin\Debug\BusinessLayer.dll
+D:\Лаба 4 ЯП\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+D:\Лаба 4 ЯП\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\bin\Debug\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <categories>
+    <Category>
+      <name>Завтрак</name>
+      <description />
+      <products />
+    </Category>
+    <Category>
+      <name>Обед</name>
+      <description />
+      <products>
+        <Product>
+          <Name>Блинчики с творогом и сметаной</Name>
+          <Gramms>100</Gramms>
+          <Protein>25.8</Protein>
+          <Fats>33.1</Fats>
+          <Carbs>55.2</Carbs>
+          <Calories>640</Calories>
+        </Product>
+        <Product>
+          <Name>мор.ов. "Овощи для супа" (Хортино)</Name>
+          <Gramms>350</Gramms>
+          <Protein>5.25</Protein>
+          <Fats>1.05</Fats>
+          <Carbs>27.650000000000002</Carbs>
+          <Calories>87.5</Calories>
+        </Product>
+      </products>
+    </Category>
+    <Category>
+      <name>Ужин</name>
+      <description />
+      <products>
+        <Product>
+          <Name>Чебуреки</Name>
+          <Gramms>400</Gramms>
+          <Protein>35.6</Protein>
+          <Fats>54</Fats>
+          <Carbs>104.8</Carbs>
+          <Calories>1056</Calories>
+        </Product>
+        <Product>
+          <Name>мор.ов. "Кускус" (Овощной мир)</Name>
+          <Gramms>100</Gramms>
+          <Protein>1.2</Protein>
+          <Fats>0</Fats>
+          <Carbs>5.9</Carbs>
+          <Calories>28.4</Calories>
+        </Product>
+        <Product>
+          <Name>1</Name>
+          <Gramms>400</Gramms>
+          <Protein>4</Protein>
+          <Fats>4</Fats>
+          <Carbs>4</Carbs>
+          <Calories>4</Calories>
+        </Product>
+      </products>
+    </Category>
+  </categories>
+</Categories>

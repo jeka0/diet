@@ -1,0 +1,6 @@
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\obj\Release\BusinessLayer.pdb

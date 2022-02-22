@@ -1,0 +1,11 @@
+D:\Лаба 4 ЯП\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Лаба 4 ЯП\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Лаба 4 ЯП\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Лаба 4 ЯП\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Лаба 4 ЯП\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,10 @@
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.exe.config
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.exe
+D:\Лаба 4 ЯП\Лаба 4 ЯП\bin\Debug\Лаба 4 ЯП.pdb
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.csproj.AssemblyReference.cache
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.Form1.resources
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба_4_ЯП.Properties.Resources.resources
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.csproj.GenerateResource.cache
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.csproj.CoreCompileInputs.cache
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.exe
+D:\Лаба 4 ЯП\Лаба 4 ЯП\obj\Debug\Лаба 4 ЯП.pdb

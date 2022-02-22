@@ -1,0 +1,19 @@
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\Лаба 4 ЯП.exe.config
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\Лаба 4 ЯП.exe
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\Лаба 4 ЯП.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\BusinessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\DataAccessLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\ServiceLayer.dll
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\BusinessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\DataAccessLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\bin\Release\ServiceLayer.pdb
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\PresentationLayer.csproj.AssemblyReference.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\Лаба_4_ЯП.Form1.resources
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\Лаба_4_ЯП.NewCategory.resources
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\Лаба_4_ЯП.NewProduct.resources
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\Лаба_4_ЯП.Properties.Resources.resources
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\PresentationLayer.csproj.GenerateResource.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\PresentationLayer.csproj.CopyComplete
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\Лаба 4 ЯП.exe
+D:\Visual studio\Лабы 3 сем\Лаба 4 ЯП\Лаба 4 ЯП\obj\Release\Лаба 4 ЯП.pdb
